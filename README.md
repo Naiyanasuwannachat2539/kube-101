@@ -1,3 +1,7 @@
 # kube-101
 # create namespace to server
-```kubectl apply -f namespace.yml```
+1. open server
+2. cd เข้าไปใน floder
+3. ggu
+4. ```kubectl apply -f namespace.yml```
+
